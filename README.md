@@ -11,7 +11,7 @@ Actual builds of our game
 ---
 #### Using direct link
 ##### Windows
-1. To download the archive of game click: [Dowload the Game](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FTeam43CardGame%2FBuilds%2Ftree%2Fmain%2FMVP3Windows)
+1. To download the archive of game click: [Dowload the Game](https://downgit.github.io/#/home?url=https://github.com/Team43CardGame/Builds/blob/main/MVP3Windows.zip)
 
 2. Unzip by any method, for example **RMB** to archive **MVP3Windows.zip**, in list chose **Extract all** and chose place for it (don't matter)
 
